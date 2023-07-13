@@ -8,7 +8,7 @@ image:
   repository: ajay996/demo-helm-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 0749f902c21ddbea8352c4aa5505b19b0cd86688
+  tag: 70b2bb27d7e1bb1b959aa6d7cfc39a5624eafd77
 
 imagePullSecrets: []
 nameOverride: ""
